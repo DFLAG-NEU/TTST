@@ -66,7 +66,7 @@ DataSet/
         └── Patient_7/
         └── Patient_8/
 └── mask_LGE
-        └── mace/
+    └── mace/
         └── Patient_1/
             └── Location_1.png
             └── Location_2.png
